@@ -1,0 +1,12 @@
+/* additional.css
+ *
+ * Additional css for the site/theme. Can be added via the admin interface via
+ * 'Appearance' > 'Customize' > 'Additional CSS'
+ *
+*/
+
+/* Change the button on the homepage to Noble gold */
+.hp-header-secondary-button {
+	background-color: #DEB047 !important;
+}
+
