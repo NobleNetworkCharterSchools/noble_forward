@@ -2,6 +2,7 @@ Noble Forward .Org
 ==================
 
 The WordPress site for NobleForward.org is hosted on an AWS Lightsail instance. The subdomain students.nobleforward.org is hosted on a separate Lightsail instance for ease of customization, etc.
+Each site has it's own separately-managed cert, set up according to https://metablogue.com/enable-lets-encrypt-ssl-aws-lightsail/
 
 SSL Cert
 --------
